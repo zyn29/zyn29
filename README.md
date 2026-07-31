@@ -1,4 +1,4 @@
-# hey, I'm zyn!
+# hey, I'm Mhlelisi!
 A self-taught full-stack developer
 
 
